@@ -28,7 +28,7 @@ iperf_
 
 .. _ESnet: http://www.es.net/
 .. _esmond: http://esnet.github.io/esmond/
-.. _iperf: http://esnet.github.io/esmond/
+.. _iperf: http://esnet.github.io/iperf/
 
 .. toctree::
    :maxdepth: 2
