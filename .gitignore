@@ -1,1 +1,6 @@
 .Python
+# ignore virtualenv stuff
+/bin
+/lib
+/include
+/docs/_build
