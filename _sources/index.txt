@@ -29,9 +29,9 @@ MaDDash_
     MaDDash is a tool for displaying perfSONAR_ point-to-point network measurements and other "two-dimensional" data as a set of grids referred to as a dashboard
     
 .. _ESnet: http://www.es.net/
-.. _esmond: http://esnet.github.io/esmond/
-.. _iperf: http://esnet.github.io/iperf/
-.. _MaDDash: http://esnet.github.io/maddash/
+.. _esmond: http://software.es.net/esmond/
+.. _iperf: http://software.es.net/iperf/
+.. _MaDDash: http://software.es.net/maddash/
 .. _perfSONAR: http://fasterdata.es.net/performance-testing/perfsonar/perfsonar-dashboard/
 
 .. toctree::
