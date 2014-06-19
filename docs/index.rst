@@ -26,12 +26,13 @@ iperf_
     iperf is a TCP, UDP, and SCTP network bandwidth measurement tool.
 
 MaDDash_
-    MaDDash is a tool for displaying point-to-point network measurements and other "two-dimensional" data as a set of grids referred to as a dashboard
+    MaDDash is a tool for displaying perfSONAR_ point-to-point network measurements and other "two-dimensional" data as a set of grids referred to as a dashboard
     
 .. _ESnet: http://www.es.net/
 .. _esmond: http://esnet.github.io/esmond/
 .. _iperf: http://esnet.github.io/iperf/
 .. _MaDDash: http://esnet.github.io/maddash/
+.. _perfSONAR: http://fasterdata.es.net/performance-testing/perfsonar/perfsonar-dashboard/
 
 .. toctree::
    :maxdepth: 2
