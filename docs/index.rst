@@ -40,6 +40,11 @@ sLS_
 Pond_
     A library build on top of immutable.js to provide basic timeseries functionality within ESnet tools.
 
+ENOS
+    The ESnet Network Operating System, an environment for running
+    control plane software for Software Defined Networks.  Contained
+    in two repositories, Netshell_ and ENOS_.
+
 .. _ESnet: http://www.es.net/
 .. _esmond: http://software.es.net/esmond/
 .. _iperf: http://software.es.net/iperf/
@@ -49,6 +54,8 @@ Pond_
 .. _Timeseries Charts: http://software.es.net/react-timeseries-charts/
 .. _Network Diagrams: http://software.es.net/react-network-diagrams/
 .. _Pond: http://software.es.net/pond/
+.. _Netshell: https://github.com/esnet/netshell
+.. _ENOS: https://github.com/esnet/enos
 .. toctree::
    :maxdepth: 2
 
