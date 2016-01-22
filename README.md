@@ -1,12 +1,10 @@
-ESnet Software Page
-===================
+# ESnet Software Page
 
 The repository here contains HTML (and document sources) for
 http://software.es.net/.  This file provides information deemed useful
 when committing changes to that page.
 
-Dependencies
-------------
+## Dependencies
 
 The rendering infrastructure for software.es.net is based on what's in the
 esnet-gh-pages-base repo, and the software dependencies are in fact
@@ -14,14 +12,12 @@ the same.  Primarily this means installing Sphinx, a Python
 documentation tool.  The Sphinx installation steps below are copied
 from the esnet-gh-pages-base documentation:
 
-Sphinx Installation using Mac OS X Base Python
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### Sphinx Installation using Mac OS X Base Python
 
 1. ```sudo /usr/bin/easy_install pip```
 2. ```sudo /usr/local/bin/pip install sphinx sphinx-bootstrap-theme```
 
-Sphinx Installation using MacPorts
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### Sphinx Installation using MacPorts
 
 1. ```sudo port install python27 py27-pip py27-sphinx```
 2. ```sudo port select pip py27-pip```
@@ -32,8 +28,7 @@ In general, building the HTML and previewing works the same as for any
 other ESnet software project using the esnet-gh-pages-base
 infrastructure.
 
-Updates
--------
+## Updates
 
 A major difference between this repo and project documentation sites
 is that for project documentation sites, the document sources live in
