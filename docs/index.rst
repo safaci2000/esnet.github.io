@@ -19,8 +19,9 @@ As part of supporting ESnet's mission we develop quite a bit of software. This
 page has links to each of ESnet's publically visible software projects.
 
 esmond_
-    esmond is a package for collecting time series metrics from networks,
-    with good support for SNMP.
+    esmond is a package for collecting time series metrics which is used
+    primarily for perfSONAR. Currently esmond is only supported for use as
+    part of the perfSONAR toolkit.
 
 iperf_
     iperf is a TCP, UDP, and SCTP network bandwidth measurement tool.
