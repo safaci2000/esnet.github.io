@@ -39,7 +39,7 @@ ENOS_
     in two repositories, Netshell_ and ENOS_.
 
 GDG_
-    Grafana Dash-n-Grab (GDG) -- Dashboard/DataSource Manager. The purpose of this project is to provide an easy-to-use CLI to interact with the grafana API allowing you to backup and restore dashboard, connections (formerly datasources), and other entities.
+    Grafana Dash-n-Grab (GDG) -- Dashboard/DataSource Manager. The purpose of this project is to provide an easy-to-use CLI to interact with the grafana API allowing you to backup and restore dashboard, connections (formerly datasources), and other entities. Cloud also works!!
 
 
 .. _ESnet: http://www.es.net/
